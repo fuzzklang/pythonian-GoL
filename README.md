@@ -1,4 +1,4 @@
-Game of Life - Skrevet i Python
+Game of Life - Skrevet i Python3
 
 Kan kjøres interaktivt (ny generasjon ved Enter-trykk) eller automatisk.
 
